@@ -1,0 +1,17 @@
+TODO:
+=====
+Add forum
+Add message
+PHP script to randomly get:
+-> List of forums
+-> Forum view for a randomly selected forum
+-> Thread view for a randomly selected message
+PHP script to randomly post:
+-> Add new forum (low probability)
+-> Add new thread (10 times more likely than new forum)
+-> Add new post to a thread (5 times more likely than new thread)
+
+DONE:
+=====
+Entities
+View (Forums, Threads, Messages)
