@@ -1,7 +1,5 @@
 TODO:
 =====
-Add forum
-Add message
 PHP script to randomly get:
 -> List of forums
 -> Forum view for a randomly selected forum
@@ -15,3 +13,5 @@ DONE:
 =====
 Entities
 View (Forums, Threads, Messages)
+Add forum
+Add message
